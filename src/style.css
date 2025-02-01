@@ -60,3 +60,7 @@ footer {
 a {
     color: #885df1;
 }
+
+.poem strong {
+    color: pink
+}
